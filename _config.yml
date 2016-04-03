@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: 直到最后@Bind(byfinal.com)
+email: wangqin.lwq@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  孤独是一个人的狂欢，狂欢是一群人的孤独
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://byfinal.com" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username: vincentlong889 
+
+# Build settings
+markdown: kramdown
