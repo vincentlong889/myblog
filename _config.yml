@@ -10,7 +10,7 @@ title: 直到最后@Bind(byfinal.com)
 email: wangqin.lwq@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   孤独是一个人的狂欢，狂欢是一群人的孤独
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "http://byfinal.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username: vincentlong889 
